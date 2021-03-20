@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import pkg_resources #加上这个import
 
 print(__package__) #此行无用，仅用于调试

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # default.nix
 # 此文件仅在操作系统为nixos时有用，其余情况忽略
 let a=import /etc/nixos/overlays/pkgs.nix; in 
